@@ -1,0 +1,15 @@
+A Peer Review of the Journal "Single-Cell RNA-Seq of the Pancreatic Islets-A Promise Not Yet Fulfilled?"
+
+Introduction 
+The pancreas, a metabolically vital organ, consists of about 5% islets of Langerhans and 95% exocrine tissue. The islets regulate glucose homeostasis through insulin from β-cells and glucagon from α-cells, and their dysfunction causes type 1 diabetes (loss of β-cells) or type 2 diabetes (insufficient insulin), making them central to metabolic disease studies (Baron et al., 2016; Blodgett et al., 2016). Baron et al. (2016) identified multiple islet sub-cell types, while earlier transcriptome studies using microarrays (Bensellam et al., 2009; Gunton et al., 2005) were limited, prompting the adoption of single-cell RNA sequencing (scRNA-seq) to profile individual cell transcriptomes (Wang & Kaestner, 2019). Kang et al. (2023) introduced single-nucleus RNA sequencing (snRNA-seq), which avoids dissociation artefacts and captures intronic sequences for predicting pre-mRNA transcripts. Together, scRNA-seq and snRNA-seq provide more accurate analyses of islet subtypes and transcriptional heterogeneity (Kang et al., 2023).
+
+The promise of scRNA-seq lies in its ability to characterise pancreatic islet complexity at single-cell resolution, uncovering disease-associated transcriptional states, novel biomarkers, and pathways of β-cell dysfunction (Wang & Kaestner, 2019). It was expected to reveal mechanisms underlying diabetes progression and inform regenerative therapies, yet early studies only partly achieved this due to technical and biological constraints.
+
+Advances and Methodological InsightsscRNA-seq has transformed islet research by revealing transcriptional heterogeneity among α-, β-, and δ-cells and identifying rare endocrine types. Wang and Kaestner (2019) refined cell-type signatures and uncovered β-cell subpopulations with distinct stress responses. Kang et al. (2023) identified three β-cell subclusters with unique transcriptomes, Grenko et al. (2024) reported glucose-responsive genes, Ma et al. (2024) linked ferroptosis genes to β-cell dedifferentiation, and Atla et al. (2022) showed RNA splicing adds further complexity. Advances from Smart-seq2 to droplet- and nucleus-based systems have improved accuracy and resolution.
+
+Limitations 
+scRNA-seq remains limited by small donor numbers, dissociation artefacts, and underrepresentation of rare cell types (Wang & Kaestner, 2019; Kang et al., 2023). Inadequate resolution of transcript-level regulation, including RNA splicing and isoform diversity (Atla et al., 2022), also limits mechanistic interpretation.
+
+Conclusion 
+Although scRNA-seq has advanced islet biology, its full promise remains partly unfulfilled. Integrating snRNA-seq with spatial and multi-omics approaches could overcome current barriers and support future therapeutic breakthroughs in diabetes research.
+
