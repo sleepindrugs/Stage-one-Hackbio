@@ -66,8 +66,8 @@ def hamming_distance(name1, name2):
 
 
 # Example:
-slack_name = "Gloria Akpederi"     # Your Slack username
-twitter_name = "GloriaAkpederi"    # Your Twitter/X handle
+slack_name = "Tanishka Kumar"     # Your Slack username
+twitter_name = "sleepindrugs"    # Your Twitter/X handle
 
 
 # Use the function and print the result
